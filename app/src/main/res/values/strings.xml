@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">DenverRocksV3</string>
+    <string name="transportation">Transportation</string>
+    <string name="history">Historical</string>
+    <string name="fun">Fun</string>
+    <string name="resturant">Restaurants</string>
+
+
+    <!---Fun Names and Descriptions Long Text-->
+
+    <string name="union_station_description">Denvers Union Station is a working public transit station
+        </string>
+    <string name="union">Denver Union Station</string>
+
+    <string name="denver_art_description">With galleries showcasing more than 70,000 works</string>
+    <string name="denverArt">Denver Art Muesum</string>
+
+    <string name="red_rocks_description">With its excellent views of the Rocky Mountains, miles of hiking trails. </string>
+    <string name="redRocks">Red Rocks</string>
+
+    <string name="larimer_square_description">In 1858, a group of American Indians and settlers struck gold at the foot of the Rocky Mountains.
+        </string>
+    <string name="larimer">Larimer Square</string>
+
+    <string name="denver_botantic_gardens_description">The Denver Botanic Gardens 24 acres feature a whopping 50 gardens for visitors to explore.
+        </string>
+    <string name="botantic">Denver Botantical Gardens</string>
+
+    <string name="Museum_of_Nature_description">With exhibits featuring everything from dinosaur bones to Egyptian mummies. </string>
+    <string name="natureMuseum">Denver Museum of Nature</string>
+
+    <string name="coors_field_description">Named for Denvers famed beer, Coors Field in Denvers LoDo district is home to Major League Baseballs
+        Colorado Rockies.  </string>
+    <string name="coors">Coors Field</string>
+
+    <!---Historical Description Long Text-->
+
+    <string name="bent_fort_description">Bents Old Fort National Historic Site features a reconstruction of the 1840s trading post.</string>
+    <string name="bent">Bents Old Fort</string>
+
+    <string name="national_monument_description">Colorado National Monument preserves amazing sandstone towers and canyons, and desert ecosystems.</string>
+    <string name="national_monumnet">Colorado National Mounment</string>
+
+    <string name="curecanti_description">The three reservoirs of the Curecanti National Recreation Area are great places for boating, fishing, hiking, camping, and
+        bird watching.</string>
+    <string name="curecanti">Curecanti Recreation Area</string>
+
+    <string name="dinosaur_description">Dinosaur National Monument preserves fossils, petroglyphs, and canyon ecosystems.</string>
+    <string name="dino">Dinosaur National Monument</string>
+
+    <string name="florissant_description">Florissant Fossil Beds National Monument protects 34 million-year-old fossils of redwood trees and insects.
+        </string>
+    <string name="Florissant">Florissant Fossil Beds Monument</string>
+
+    <string name="hovenweep_description">Hovenweep National Monument includes six prehistoric villages built by Ancestral Puebloan people.</string>
+    <string name="hovenweep">Hovenweep National Monument</string>
+
+    <string name="sandcreek_description">Sand Creek Massacre National Historic Site commemorates the events of November 29, 1864.</string>
+    <string name="sandcreek">Sand Creek Massacre Historic Site</string>
+
+    <string name="yuccahouse_description">Yucca House National Monument preserves the remains of an 600-room Ancestral Pueblo village.</string>
+    <string name="yuccahouse">Yucca House National Monument</string>
+
+
+    <!---Resturant Descriptions and Addresses Long Text-->
+
+    <string name="maria">Maria Empanada</string>
+    <string name="maria_empanada_descripton">Maria Empanada basically does one thingbrilliantly.</string>
+    <string name="maria_address">1298 S. Broadway, Denver, CO 80210</string>
+    <string name="maria_phone">3039342221</string>
+
+    <string name="acron">Acron</string>
+    <string name="acron_descripton">Located in The Source, the former foundry building turned chic multi-venue marketplace on Brighton Boulevard.</string>
+    <string name="acron_address">3350 Brighton Blvd, Denver, CO 80216</string>
+    <string name="acron_phone">7205423721</string>
+
+    <string name="oldmajor">Old Major</string>
+    <string name="oldmajor_descripton">The focus at this Highlands-area eatery is on heritage-raised meats</string>
+    <string name="oldmajor_address">3316 Tejon St, Denver, CO 80211</string>
+    <string name="oldmajor_phone">7204200622</string>
+
+    <string name="olive">Olive and Finch</string>
+    <string name="olive_descripton">Olive and Finch features made from scratch and made to order three meals a day.</string>
+    <string name="olive_address">3390 1st Avenue, Denver, CO 80206</string>
+    <string name="olive_phone">3039550455</string>
+
+    <string name="work">Work and Class</string>
+    <string name="work_descripton">As its name suggests, Work and Class, which opened in 2014, is down to earth and deliberately</string>
+    <string name="work_address">2500 Larimer St, Denver, CO 80205</string>
+    <string name="work_phone">3032920700</string>
+
+    <string name="ilposto">Il Posto</string>
+    <string name="ilposto_descripton">Il Posto is a contemporary space in Denvers newest trending culinary neighborhood,
+        RiNo.</string>
+    <string name="ilposto_address">2601 Larimer Street, Denver, CO 80205</string>
+    <string name="ilposto_phone">3033940100</string>
+
+    <string name="bistro">Bistro Vendrom Downtown</string>
+    <string name="bistro_descripton">Tucked into a secluded breezeway off Larimer Square, intimate B</string>
+    <string name="bistro_address">1420 Larimer St, Denver, CO 80202</string>
+    <string name="bistro_phone">3038253232</string>
+
+    <string name="hopalley">Hop Alley</string>
+    <string name="hopalley_descripton">Hop Alley is the second venue from Tommy Lee and sister restaurant to Lees successful Uncle in the best.</string>
+    <string name="hopalley_address">3500 Larimer Street, Denver, CO 80205</string>
+    <string name="hopalley_phone">7203798340</string>
+
+    <string name="fruiton">Fruition</string>
+    <string name="fruiton_descripton">While the ubiquitous term "farm-to-table" is now overused, Chef Seidel set the bar.</string>
+    <string name="fruiton_address">1313 E. 6th Avenue, Denver, CO 80218</string>
+    <string name="fruiton_phone">3038311962</string>
+
+    <string name="guardgrace">Guard and Grace</string>
+    <string name="guardgrace_descripton">The bone-in ribeye will vie for the best steak youve ever had.</string>
+    <string name="guardgrace_address">1801 California St, Denver, CO 80202</string>
+    <string name="guardgrace_phone">3032938500</string>
+
+    <!---Transportation Names and Descriptions -->
+
+    <string name="airport_rail">The Airport Rail</string>
+    <string name="airport_rail_description">visitors can ride the Denver Airport Rail from the airport to Union Station</string>
+
+    <string name="lightrail">The Light Rail</string>
+    <string name="lightrail_description">This train travels almost 35 miles throughout the suburbs of Denver</string>
+
+    <string name="mall_shuttle">16th Street Free Mall Ride Bus</string>
+    <string name="mall_shuttle_description">Free buses stop at each block along the pedestrian friendly promenade, from Union Station in LoDo</string>
+
+    <string name="Bustang">Bustang Regional Bus</string>
+    <string name="Bustang_description">Hop aboard this purple commercial bus from Denver Union Station</string>
+
+    <string name="Amtrak">Amtrak Rail</string>
+    <string name="Amtrak_description">Amtrak from Union Station heads west all the way to San Francisco or east all the way to Chicago</string>
+
+    <string name="BCycle">Denver BCycle Bike Rental</string>
+    <string name="BCycle_description">Denver BCycle Bike Rental</string>
+
+    <string name="share_rides">Uber and Lyft</string>
+    <string name="share_rides_description">The leading rideshare services are very popular in Denver</string>
+
+</resources>
